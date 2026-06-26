@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Aditya 👋</h1>
+<h1 align="center">Hi, I'm Adi 👋</h1>
 
 <p align="center">I build real things — MCP servers, automations, homelab rigs, and a few businesses.</p>
 
