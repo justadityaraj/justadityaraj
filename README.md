@@ -4,7 +4,7 @@
 
 **MD by title, AI engineer by habit.** Give me a week inside your business. I'll find the job nobody wants to do and hand it to an AI agent.
 
-**Got one? [Let's talk on LinkedIn →](https://www.linkedin.com/in/justadityaraj/)**
+**Got one? [Let's build your agent →](https://bncw.in/services/ai/agents/)**
 
 [![Try my Mac apps](https://img.shields.io/badge/Try_my_Mac_apps-24292F?style=for-the-badge&logo=apple&logoColor=white)](#apps-i-just-open-sourced)
 [![Read what I'm learning](https://img.shields.io/badge/Read_what_I'm_learning-0A66C2?style=for-the-badge&logo=rss&logoColor=white)](https://adityarajsingh.com/)
