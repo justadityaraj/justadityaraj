@@ -98,12 +98,7 @@ def release_lines(limit):
 
 
 def stats_line(prs):
-    projects = sorted({repo_of(p) for p in prs})
-    stars = sum(github(f"/repos/{name}")["stargazers_count"] for name in projects)
-    return (
-        f"**{len(prs)} pull requests merged** into **{len(projects)} open-source projects** "
-        f"with **{stars // 10000 * 10}k+ stars** between them."
-    )
+    return f"Contributing to **{len({repo_of(p) for p in prs})} open-source projects** whenever I get the chance."
 
 
 def blog_lines(limit):
@@ -118,7 +113,7 @@ def main():
     text = replace_section(text, "releases", "\n\n".join(release_lines(6)))
     text = replace_section(text, "merged", "\n\n".join(merged_lines(prs, 6)))
     text = replace_section(text, "blog", "\n\n".join(blog_lines(5)))
-    README.write_text(text, encoding="utf-8")
+    README.write_text(text, encoding="utf-8", newline="\n")
 
 
 if __name__ == "__main__":
