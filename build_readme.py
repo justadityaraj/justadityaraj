@@ -11,6 +11,7 @@ USER = "justadityaraj"
 OWN_OWNERS = ("justadityaraj", "bncwin", "swagloop", "briefs-finance")
 FEED = "https://adityarajsingh.com/feed/"
 README = Path(__file__).parent / "README.md"
+UTM = {"utm_source": "github", "utm_medium": "profile", "utm_campaign": "readme"}
 
 
 def fetch(url):
@@ -25,6 +26,12 @@ def fetch(url):
 def github(path, **params):
     query = f"?{urllib.parse.urlencode(params)}" if params else ""
     return json.loads(fetch(f"https://api.github.com{path}{query}"))
+
+
+def utm(url, content):
+    parts = urllib.parse.urlsplit(url)
+    tags = urllib.parse.urlencode({**UTM, "utm_content": content})
+    return urllib.parse.urlunsplit(parts._replace(query=f"{parts.query}&{tags}" if parts.query else tags))
 
 
 def replace_section(text, name, body):
@@ -98,17 +105,12 @@ def release_lines(limit):
 
 
 def stats_line(prs):
-    projects = sorted({repo_of(p) for p in prs})
-    stars = sum(github(f"/repos/{name}")["stargazers_count"] for name in projects)
-    return (
-        f"**{len(prs)} pull requests merged** into **{len(projects)} open-source projects** "
-        f"with **{stars // 10000 * 10}k+ stars** between them."
-    )
+    return f"Contributing to **{len({repo_of(p) for p in prs})} open-source projects** whenever I get the chance."
 
 
 def blog_lines(limit):
     items = ET.fromstring(fetch(FEED)).iter("item")
-    return [f"[{item.findtext('title')}]({item.findtext('link')})" for item in list(items)[:limit]]
+    return [f"[{item.findtext('title')}]({utm(item.findtext('link'), 'writing_column')})" for item in list(items)[:limit]]
 
 
 def main():
@@ -118,7 +120,7 @@ def main():
     text = replace_section(text, "releases", "\n\n".join(release_lines(6)))
     text = replace_section(text, "merged", "\n\n".join(merged_lines(prs, 6)))
     text = replace_section(text, "blog", "\n\n".join(blog_lines(5)))
-    README.write_text(text, encoding="utf-8")
+    README.write_text(text, encoding="utf-8", newline="\n")
 
 
 if __name__ == "__main__":

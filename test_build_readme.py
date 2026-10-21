@@ -48,6 +48,16 @@ class UpstreamTest(unittest.TestCase):
         self.assertTrue(lines[0].startswith("[two: Newer]"))
         self.assertTrue(lines[0].endswith("<br><sub>1 Oct 2026</sub>"))
 
+    def test_stats_line_counts_distinct_projects(self):
+        prs = [
+            pr("a/one", "x", "2026-09-01T00:00:00Z"),
+            pr("a/one", "y", "2026-09-02T00:00:00Z"),
+            pr("b/two", "z", "2026-09-03T00:00:00Z"),
+        ]
+        self.assertEqual(
+            build_readme.stats_line(prs), "Contributing to **2 open-source projects** whenever I get the chance."
+        )
+
     def test_titles_drop_commit_prefixes_and_closes_refs(self):
         self.assertEqual(
             build_readme.clean_title("feat(permissions): union mode for --permissions (closes #808)"),
@@ -55,6 +65,20 @@ class UpstreamTest(unittest.TestCase):
         )
         self.assertEqual(build_readme.clean_title("fix: windows file uploads"), "Windows file uploads")
         self.assertEqual(build_readme.clean_title("Keep commas in search"), "Keep commas in search")
+
+
+class UtmTest(unittest.TestCase):
+    def test_tags_go_before_the_fragment(self):
+        self.assertEqual(
+            build_readme.utm("https://example.com/post/#top", "writing_column"),
+            "https://example.com/post/?utm_source=github&utm_medium=profile&utm_campaign=readme"
+            "&utm_content=writing_column#top",
+        )
+
+    def test_existing_query_is_kept(self):
+        self.assertTrue(
+            build_readme.utm("https://example.com/?p=1", "x").startswith("https://example.com/?p=1&utm_source=github")
+        )
 
 
 class ReleaseNameTest(unittest.TestCase):
