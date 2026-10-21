@@ -118,7 +118,7 @@ Both are free, signed and notarized. Grab the DMG for [Foldout](https://github.c
 </tr>
 </table>
 
-<sub>Updated every day by a GitHub Action in this repo.</sub>
+<sub>Updated by a GitHub Action in this repo.</sub>
 
 ### Contributing to
 
