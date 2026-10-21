@@ -1,13 +1,14 @@
 <div align="center">
 
-# Aditya Raj Singh
+# Aditya Raj Singh (Adi)
 
-**An engineer in love with AI.** I work like a forward deployed engineer: I sit inside a business, find the workflow that hurts, and ship the agent, integration or automation that fixes it.
+**MD by title, AI engineer by habit.** I work like a forward deployed engineer: I sit inside a business, find the workflow that hurts, and ship the AI that fixes it.
 
-[![Website](https://img.shields.io/badge/adityarajsingh.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://adityarajsingh.com/)
-[![Open-source tracker](https://img.shields.io/badge/Every_PR_I've_opened-24292F?style=for-the-badge&logo=github&logoColor=white)](https://dev.adityarajsingh.com/#contributions)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justadityaraj/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/justadityaraj/)
+**Got a workflow like that? [Let's talk on LinkedIn →](https://www.linkedin.com/in/justadityaraj/)**
+
+[![Try my Mac apps](https://img.shields.io/badge/Try_my_Mac_apps-24292F?style=for-the-badge&logo=apple&logoColor=white)](#apps-i-just-open-sourced)
+[![Read what I'm learning](https://img.shields.io/badge/Read_what_I'm_learning-0A66C2?style=for-the-badge&logo=rss&logoColor=white)](https://adityarajsingh.com/)
+[![See every PR I've opened](https://img.shields.io/badge/See_every_PR_I've_opened-238636?style=for-the-badge&logo=github&logoColor=white)](https://dev.adityarajsingh.com/#contributions)
 
 <!-- stats starts -->
 **68 pull requests merged** into **28 open-source projects** with **540k+ stars** between them.
