@@ -67,6 +67,20 @@ class UpstreamTest(unittest.TestCase):
         self.assertEqual(build_readme.clean_title("Keep commas in search"), "Keep commas in search")
 
 
+class UtmTest(unittest.TestCase):
+    def test_tags_go_before_the_fragment(self):
+        self.assertEqual(
+            build_readme.utm("https://example.com/post/#top", "writing_column"),
+            "https://example.com/post/?utm_source=github&utm_medium=profile&utm_campaign=readme"
+            "&utm_content=writing_column#top",
+        )
+
+    def test_existing_query_is_kept(self):
+        self.assertTrue(
+            build_readme.utm("https://example.com/?p=1", "x").startswith("https://example.com/?p=1&utm_source=github")
+        )
+
+
 class ReleaseNameTest(unittest.TestCase):
     def test_uses_release_name_when_it_names_the_app(self):
         self.assertEqual(build_readme.release_label("foldout", "Foldout 0.1.3", "v0.1.3"), "Foldout 0.1.3")

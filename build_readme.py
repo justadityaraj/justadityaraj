@@ -11,6 +11,7 @@ USER = "justadityaraj"
 OWN_OWNERS = ("justadityaraj", "bncwin", "swagloop", "briefs-finance")
 FEED = "https://adityarajsingh.com/feed/"
 README = Path(__file__).parent / "README.md"
+UTM = {"utm_source": "github", "utm_medium": "profile", "utm_campaign": "readme"}
 
 
 def fetch(url):
@@ -25,6 +26,12 @@ def fetch(url):
 def github(path, **params):
     query = f"?{urllib.parse.urlencode(params)}" if params else ""
     return json.loads(fetch(f"https://api.github.com{path}{query}"))
+
+
+def utm(url, content):
+    parts = urllib.parse.urlsplit(url)
+    tags = urllib.parse.urlencode({**UTM, "utm_content": content})
+    return urllib.parse.urlunsplit(parts._replace(query=f"{parts.query}&{tags}" if parts.query else tags))
 
 
 def replace_section(text, name, body):
@@ -103,7 +110,7 @@ def stats_line(prs):
 
 def blog_lines(limit):
     items = ET.fromstring(fetch(FEED)).iter("item")
-    return [f"[{item.findtext('title')}]({item.findtext('link')})" for item in list(items)[:limit]]
+    return [f"[{item.findtext('title')}]({utm(item.findtext('link'), 'writing_column')})" for item in list(items)[:limit]]
 
 
 def main():

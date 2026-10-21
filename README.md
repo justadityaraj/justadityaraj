@@ -4,11 +4,11 @@
 
 **MD by title, AI engineer by habit.** Give me a week inside your business. I'll find the job nobody wants to do and hand it to an AI agent.
 
-**Got one? [Let's build your agent →](https://bncw.in/services/ai/agents/)**
+**Got one? [Let's build your agent →](https://bncw.in/services/ai/agents/?utm_source=github&utm_medium=profile&utm_campaign=readme&utm_content=header_agents_cta)**
 
 [![Try my Mac apps](https://img.shields.io/badge/Try_my_Mac_apps-24292F?style=for-the-badge&logo=apple&logoColor=white)](#apps-i-just-open-sourced)
-[![Read what I'm learning](https://img.shields.io/badge/Read_what_I'm_learning-0A66C2?style=for-the-badge&logo=rss&logoColor=white)](https://adityarajsingh.com/)
-[![See every PR I've opened](https://img.shields.io/badge/See_every_PR_I've_opened-238636?style=for-the-badge&logo=github&logoColor=white)](https://dev.adityarajsingh.com/#contributions)
+[![Read what I'm learning](https://img.shields.io/badge/Read_what_I'm_learning-0A66C2?style=for-the-badge&logo=rss&logoColor=white)](https://adityarajsingh.com/?utm_source=github&utm_medium=profile&utm_campaign=readme&utm_content=header_blog_button)
+[![See every PR I've opened](https://img.shields.io/badge/See_every_PR_I've_opened-238636?style=for-the-badge&logo=github&logoColor=white)](https://dev.adityarajsingh.com/?utm_source=github&utm_medium=profile&utm_campaign=readme&utm_content=header_pr_tracker_button#contributions)
 
 <!-- stats starts -->
 Contributing to **28 open-source projects** whenever I get the chance.
@@ -59,6 +59,8 @@ Both are free, signed and notarized. Grab the DMG for [Foldout](https://github.c
 - **[amazon-in-mcp](https://github.com/justadityaraj/amazon-in-mcp)** [![Stars](https://img.shields.io/github/stars/justadityaraj/amazon-in-mcp?style=flat&color=gold)](https://github.com/justadityaraj/amazon-in-mcp) - MCP server for amazon.in: cheapest in-stock and best-value picks, plus price history links. No paid APIs.
 - **[Slack Lists MCP](https://github.com/justadityaraj/slack-lists-mcp)** [![Stars](https://img.shields.io/github/stars/justadityaraj/slack-lists-mcp?style=flat&color=gold)](https://github.com/justadityaraj/slack-lists-mcp) - Create, read, update, delete, filter and export Slack List items from any MCP client.
 
+**Want Claude or ChatGPT to work with your product? [Let's build your MCP server →](https://bncw.in/services/ai/mcp/?utm_source=github&utm_medium=profile&utm_campaign=readme&utm_content=mcp_section_cta)**
+
 ### Right now
 
 <table>
@@ -96,7 +98,7 @@ Both are free, signed and notarized. Grab the DMG for [Foldout](https://github.c
 [opengist: Return 413 for oversized gist forms](https://github.com/thomiceli/opengist/pull/805)<br><sub>16 Oct 2026</sub>
 <!-- merged ends -->
 
-[All my PRs](https://dev.adityarajsingh.com/#contributions)
+[All my PRs](https://dev.adityarajsingh.com/?utm_source=github&utm_medium=profile&utm_campaign=readme&utm_content=merged_all_prs_link#contributions)
 
 </td>
 <td width="33%" valign="top">
@@ -104,14 +106,14 @@ Both are free, signed and notarized. Grab the DMG for [Foldout](https://github.c
 **Writing**
 
 <!-- blog starts -->
-[How to Run Kronos on Windows (and the Timestamp Bug That Ruins Its Forecasts)](https://adityarajsingh.com/how-to-run-kronos-on-windows-and-the-timestamp-bug-that-ruins-its-forecasts/)
+[How to Run Kronos on Windows (and the Timestamp Bug That Ruins Its Forecasts)](https://adityarajsingh.com/how-to-run-kronos-on-windows-and-the-timestamp-bug-that-ruins-its-forecasts/?utm_source=github&utm_medium=profile&utm_campaign=readme&utm_content=writing_column)
 
-[AI Bubble vs Dot-Com vs 2008: Why This One Is Different](https://adityarajsingh.com/ai-bubble-vs-dot-com-vs-2008/)
+[AI Bubble vs Dot-Com vs 2008: Why This One Is Different](https://adityarajsingh.com/ai-bubble-vs-dot-com-vs-2008/?utm_source=github&utm_medium=profile&utm_campaign=readme&utm_content=writing_column)
 
-[The Best Local Embedding Model for RAG (I Benchmarked 5 on a 16GB GPU)](https://adityarajsingh.com/best-local-embedding-model/)
+[The Best Local Embedding Model for RAG (I Benchmarked 5 on a 16GB GPU)](https://adityarajsingh.com/best-local-embedding-model/?utm_source=github&utm_medium=profile&utm_campaign=readme&utm_content=writing_column)
 <!-- blog ends -->
 
-[More on my blog](https://adityarajsingh.com/)
+[More on my blog](https://adityarajsingh.com/?utm_source=github&utm_medium=profile&utm_campaign=readme&utm_content=writing_more_link)
 
 </td>
 </tr>
