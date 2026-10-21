@@ -11,7 +11,7 @@
 [![See every PR I've opened](https://img.shields.io/badge/See_every_PR_I've_opened-238636?style=for-the-badge&logo=github&logoColor=white)](https://dev.adityarajsingh.com/#contributions)
 
 <!-- stats starts -->
-**68 pull requests merged** into **28 open-source projects** with **540k+ stars** between them.
+Contributing to **28 open-source projects** whenever I get the chance.
 <!-- stats ends -->
 
 </div>
