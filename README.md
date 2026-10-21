@@ -2,8 +2,7 @@
 
 # Aditya Raj Singh
 
-**An engineer in love with AI.** I work like a forward deployed engineer: I sit inside a business,<br>
-find the workflow that hurts, and ship the agent, integration or automation that fixes it.
+**An engineer in love with AI.** I work like a forward deployed engineer: I sit inside a business, find the workflow that hurts, and ship the agent, integration or automation that fixes it.
 
 [![Website](https://img.shields.io/badge/adityarajsingh.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://adityarajsingh.com/)
 [![Open-source tracker](https://img.shields.io/badge/Every_PR_I've_opened-24292F?style=for-the-badge&logo=github&logoColor=white)](https://dev.adityarajsingh.com/#contributions)
