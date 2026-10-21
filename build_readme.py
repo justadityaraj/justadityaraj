@@ -4,6 +4,7 @@ import re
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
+from datetime import date
 from pathlib import Path
 
 USER = "justadityaraj"
@@ -55,10 +56,15 @@ def clean_title(title):
     return title[:1].upper() + title[1:]
 
 
+def dated(link, iso_date):
+    day = date.fromisoformat(iso_date)
+    return f"{link}<br><sub>{day.day} {day:%b %Y}</sub>"
+
+
 def merged_lines(prs, limit):
     recent = sorted(prs, key=merged_on, reverse=True)[:limit]
     return [
-        f"[{repo_of(p).split('/')[1]}: {clean_title(p['title'])}]({p['html_url']}) - {merged_on(p)}" for p in recent
+        dated(f"[{repo_of(p).split('/')[1]}: {clean_title(p['title'])}]({p['html_url']})", merged_on(p)) for p in recent
     ]
 
 
@@ -86,7 +92,8 @@ def release_lines(limit):
         if published:
             rel = published[0]
             label = release_label(repo["name"], rel["name"], rel["tag_name"])
-            releases.append((rel["published_at"][:10], f"[{label}]({rel['html_url']}) - {rel['published_at'][:10]}"))
+            published_on = rel["published_at"][:10]
+            releases.append((published_on, dated(f"[{label}]({rel['html_url']})", published_on)))
     return [line for _, line in sorted(releases, reverse=True)[:limit]]
 
 

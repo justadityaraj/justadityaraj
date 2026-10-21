@@ -46,7 +46,7 @@ class UpstreamTest(unittest.TestCase):
         ]
         lines = build_readme.merged_lines(build_readme.upstream(prs), limit=5)
         self.assertTrue(lines[0].startswith("[two: Newer]"))
-        self.assertIn("2026-10-01", lines[0])
+        self.assertTrue(lines[0].endswith("<br><sub>1 Oct 2026</sub>"))
 
     def test_titles_drop_commit_prefixes_and_closes_refs(self):
         self.assertEqual(
