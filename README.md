@@ -134,8 +134,8 @@ Both are free, signed and notarized. Grab the DMG for [Foldout](https://github.c
 
 ### Always learning
 
-- **LLM engineering, properly.** RAG retrieval metrics (MRR, nDCG), fine-tuning and where it goes wrong, and why benchmark scores lie. Working through Ed Donner's LLM Engineering course.
-- **The FDE playbook.** Evals priced in the client's money, human-in-the-loop design, and the discovery-to-handover process that gets an AI pilot adopted. Ed Donner's AI FDE course.
+- **LLM engineering, properly.** RAG retrieval metrics (MRR, nDCG), fine-tuning and where it goes wrong, and why benchmark scores lie.
+- **The FDE playbook.** Evals priced in the client's money, human-in-the-loop design, and the discovery-to-handover process that gets an AI pilot adopted.
 - **Running models at home.** Local LLMs and text-to-speech on my own GPU, to learn what the hosted APIs hide.
 
 ### Toolbox
