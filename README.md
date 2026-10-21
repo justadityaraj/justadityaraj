@@ -2,9 +2,9 @@
 
 # Aditya Raj Singh (Adi)
 
-**MD by title, AI engineer by habit.** I work like a forward deployed engineer: I sit inside a business, find the workflow that hurts, and ship the AI that fixes it.
+**MD by title, AI engineer by habit.** Give me a week inside your business. I'll find the job nobody wants to do and hand it to an AI agent.
 
-**Got a workflow like that? [Let's talk on LinkedIn →](https://www.linkedin.com/in/justadityaraj/)**
+**Got one? [Let's talk on LinkedIn →](https://www.linkedin.com/in/justadityaraj/)**
 
 [![Try my Mac apps](https://img.shields.io/badge/Try_my_Mac_apps-24292F?style=for-the-badge&logo=apple&logoColor=white)](#apps-i-just-open-sourced)
 [![Read what I'm learning](https://img.shields.io/badge/Read_what_I'm_learning-0A66C2?style=for-the-badge&logo=rss&logoColor=white)](https://adityarajsingh.com/)
@@ -18,7 +18,7 @@ Contributing to **28 open-source projects** whenever I get the chance.
 
 ### What I do
 
-- **FDE-style builds.** I learn how a team really works before I write code, then ship the AI agent, MCP server, integration or n8n automation that removes the manual step, and make sure people actually use it.
+- **Forward deployed engineering.** I learn how a team really works before I write code, then ship the AI agent, MCP server, integration or n8n automation that removes the manual step, and make sure people actually use it.
 - **AI agents for my own companies.** A multi-agent ops platform that runs in Slack: COO, CFO, SEO and ops agents. Cheap models answer first and escalate to bigger ones only when a check fails. Every agent has its own eval suite, every model call is traced in Langfuse, every number in an answer must trace back to a tool result, and no agent changes anything until a human approves it. Private repo, happy to walk you through it.
 - **Open source, straight from my homelab.** I self-host my whole stack on Proxmox. When an app I run breaks, I find the root cause and send the fix upstream.
 - **Mac apps and MCP servers.** Small tools that fix my own daily annoyances, released free and open source.
@@ -133,11 +133,42 @@ Both are free, signed and notarized. Grab the DMG for [Foldout](https://github.c
 - **[urfave/cli](https://github.com/urfave/cli)** [![GitHub stars](https://img.shields.io/github/stars/urfave/cli?style=flat&color=gold)](https://github.com/urfave/cli) - Inherited persistent flags shown in child command help.
 - **[Navidrome](https://github.com/navidrome/navidrome)** [![GitHub stars](https://img.shields.io/github/stars/navidrome/navidrome?style=flat&color=gold)](https://github.com/navidrome/navidrome) - AAC streams reported as audio/aac instead of audio/mp4 in the Subsonic API.
 
-### Always learning
+### Skills
 
-- **LLM engineering, properly.** RAG retrieval metrics (MRR, nDCG), fine-tuning and where it goes wrong, and why benchmark scores lie.
-- **The FDE playbook.** Evals priced in the client's money, human-in-the-loop design, and the discovery-to-handover process that gets an AI pilot adopted.
-- **Running models at home.** Local LLMs and text-to-speech on my own GPU, to learn what the hosted APIs hide.
+<table>
+<tr>
+<td width="55%" valign="top">
+
+**Done nerding about**
+
+- Agentic systems and multi-agent orchestration
+- MCP server design
+- LLM evals and LLM-as-judge
+- Model routing and cost control
+- LLM observability with Langfuse
+- Hallucination guardrails
+- Human-in-the-loop design
+- Context and prompt engineering
+- RAG and embeddings
+- Local inference: LLMs and text-to-speech on my own GPU
+- AI workflow automation with n8n
+- Agentic coding with Claude Code
+
+</td>
+<td width="45%" valign="top">
+
+**Currently nerding about**
+
+- Fine-tuning (LoRA, QLoRA)
+- Voice agents (realtime speech to speech)
+- Prompt-injection defense and red-teaming
+- Agent memory
+- Multimodal and vision
+- Synthetic data and distillation
+
+</td>
+</tr>
+</table>
 
 ### Toolbox
 
