@@ -71,11 +71,11 @@ Both are free, signed and notarized. Grab the DMG for [Foldout](https://github.c
 **Shipped**
 
 <!-- releases starts -->
+[Shim MCP 1.1.0](https://github.com/justadityaraj/shim-mcp/releases/tag/v1.1.0)<br><sub>22 Oct 2026</sub>
+
 [Switchboard Browser Picker 0.2.1](https://github.com/justadityaraj/switchboard-browser-picker/releases/tag/v0.2.1)<br><sub>21 Oct 2026</sub>
 
 [Foldout 0.1.3](https://github.com/justadityaraj/foldout-folder-preview/releases/tag/v0.1.3)<br><sub>21 Oct 2026</sub>
-
-[Shim MCP 1.0.2](https://github.com/justadityaraj/shim-mcp/releases/tag/v1.0.2)<br><sub>4 Sep 2026</sub>
 
 [amazon-in-mcp v0.1.3](https://github.com/justadityaraj/amazon-in-mcp/releases/tag/v0.1.3)<br><sub>11 Jul 2026</sub>
 <!-- releases ends -->
