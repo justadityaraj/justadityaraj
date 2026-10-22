@@ -28,13 +28,13 @@ Contributing to **28 open-source projects** whenever I get the chance.
 <tr>
 <td width="50%" valign="top">
 
-**[Foldout](https://github.com/justadityaraj/foldout-folder-preview)** [![Stars](https://img.shields.io/github/stars/justadityaraj/foldout-folder-preview?style=flat&color=gold)](https://github.com/justadityaraj/foldout-folder-preview)
+**[Folderglass](https://github.com/justadityaraj/folderglass)** [![Stars](https://img.shields.io/github/stars/justadityaraj/folderglass?style=flat&color=gold)](https://github.com/justadityaraj/folderglass)
 
-<a href="https://github.com/justadityaraj/foldout-folder-preview"><img src="https://raw.githubusercontent.com/justadityaraj/foldout-folder-preview/main/docs/largest.png" height="260" alt="Foldout showing the largest files in a folder"></a>
+<a href="https://github.com/justadityaraj/folderglass"><img src="https://raw.githubusercontent.com/justadityaraj/folderglass/main/docs/largest.png" height="260" alt="Folderglass showing the largest files in a folder"></a>
 
 Press Space on any folder in Finder to see its real size, file types, largest and newest files, git status and README.
 
-`brew install justadityaraj/tap/foldout`
+`brew install justadityaraj/tap/folderglass`
 
 </td>
 <td width="50%" valign="top">
@@ -51,7 +51,7 @@ A menu-bar app that opens every link in the right browser, Chrome or Brave profi
 </tr>
 </table>
 
-Both are free, signed and notarized. Grab the DMG for [Foldout](https://github.com/justadityaraj/foldout-folder-preview/releases/latest) or [Switchboard](https://github.com/justadityaraj/switchboard-browser-picker/releases/latest), or install with Homebrew.
+Both are free, signed and notarized. Grab the DMG for [Folderglass](https://github.com/justadityaraj/folderglass/releases/latest) or [Switchboard](https://github.com/justadityaraj/switchboard-browser-picker/releases/latest), or install with Homebrew.
 
 ### MCP servers
 
@@ -74,7 +74,7 @@ Both are free, signed and notarized. Grab the DMG for [Foldout](https://github.c
 
 [Switchboard Browser Picker 0.2.1](https://github.com/justadityaraj/switchboard-browser-picker/releases/tag/v0.2.1)<br><sub>21 Oct 2026</sub>
 
-[Foldout 0.1.3](https://github.com/justadityaraj/foldout-folder-preview/releases/tag/v0.1.3)<br><sub>21 Oct 2026</sub>
+[Folderglass 0.2.0](https://github.com/justadityaraj/folderglass/releases/tag/v0.2.0)<br><sub>22 Oct 2026</sub>
 
 [amazon-in-mcp v0.1.3](https://github.com/justadityaraj/amazon-in-mcp/releases/tag/v0.1.3)<br><sub>11 Jul 2026</sub>
 <!-- releases ends -->
