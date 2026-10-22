@@ -16,10 +16,9 @@ Contributing to **28 open-source projects** whenever I get the chance.
 
 </div>
 
-### What I do
+### What I play with here
 
 - **Forward deployed engineering.** I learn how a team really works before I write code, then ship the AI agent, MCP server, integration or n8n automation that removes the manual step, and make sure people actually use it.
-- **AI agents for my own companies.** A multi-agent ops platform that runs in Slack: COO, CFO, SEO and ops agents. Cheap models answer first and escalate to bigger ones only when a check fails. Every agent has its own eval suite, every model call is traced in Langfuse, every number in an answer must trace back to a tool result, and no agent changes anything until a human approves it. Private repo, happy to walk you through it.
 - **Open source, straight from my homelab.** I self-host my whole stack on Proxmox. When an app I run breaks, I find the root cause and send the fix upstream.
 - **Mac apps and MCP servers.** Small tools that fix my own daily annoyances, released free and open source.
 
