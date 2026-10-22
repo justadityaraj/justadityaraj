@@ -16,7 +16,7 @@ Contributing to **28 open-source projects** whenever I get the chance.
 
 </div>
 
-### What I do
+### What I play with here
 
 - **Forward deployed engineering.** I learn how a team really works before I write code, then ship the AI agent, MCP server, integration or n8n automation that removes the manual step, and make sure people actually use it.
 - **Open source, straight from my homelab.** I self-host my whole stack on Proxmox. When an app I run breaks, I find the root cause and send the fix upstream.
