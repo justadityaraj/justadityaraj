@@ -72,7 +72,7 @@ Both are free, signed and notarized. Grab the DMG for [Folderglass](https://gith
 <!-- releases starts -->
 [Shim MCP 1.1.0](https://github.com/justadityaraj/shim-mcp/releases/tag/v1.1.0)<br><sub>22 Oct 2026</sub>
 
-[Folderglass 0.2.0](https://github.com/justadityaraj/folderglass/releases/tag/v0.2.0)<br><sub>22 Oct 2026</sub>
+[Folderglass 0.3.0](https://github.com/justadityaraj/folderglass/releases/tag/v0.3.0)<br><sub>22 Oct 2026</sub>
 
 [Switchboard Browser Picker 0.2.1](https://github.com/justadityaraj/switchboard-browser-picker/releases/tag/v0.2.1)<br><sub>21 Oct 2026</sub>
 
