@@ -106,11 +106,11 @@ Both are free, signed and notarized. Grab the DMG for [Folderglass](https://gith
 **Writing**
 
 <!-- blog starts -->
+[Lightpanda vs Firecrawl (I Self-Hosted the AI Browser on Proxmox and Benchmarked Both)](https://adityarajsingh.com/lightpanda-vs-firecrawl/?utm_source=github&utm_medium=profile&utm_campaign=readme&utm_content=writing_column)
+
 [How to Run Kronos on Windows (and the Timestamp Bug That Ruins Its Forecasts)](https://adityarajsingh.com/how-to-run-kronos-on-windows-and-the-timestamp-bug-that-ruins-its-forecasts/?utm_source=github&utm_medium=profile&utm_campaign=readme&utm_content=writing_column)
 
 [AI Bubble vs Dot-Com vs 2008: Why This One Is Different](https://adityarajsingh.com/ai-bubble-vs-dot-com-vs-2008/?utm_source=github&utm_medium=profile&utm_campaign=readme&utm_content=writing_column)
-
-[The Best Local Embedding Model for RAG (I Benchmarked 5 on a 16GB GPU)](https://adityarajsingh.com/best-local-embedding-model/?utm_source=github&utm_medium=profile&utm_campaign=readme&utm_content=writing_column)
 <!-- blog ends -->
 
 [More on my blog](https://adityarajsingh.com/?utm_source=github&utm_medium=profile&utm_campaign=readme&utm_content=writing_more_link)
