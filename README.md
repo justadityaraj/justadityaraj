@@ -11,7 +11,7 @@
 [![See every PR I've opened](https://img.shields.io/badge/See_every_PR_I've_opened-238636?style=for-the-badge&logo=github&logoColor=white)](https://dev.adityarajsingh.com/?utm_source=github&utm_medium=profile&utm_campaign=readme&utm_content=header_pr_tracker_button#contributions)
 
 <!-- stats starts -->
-Contributing to **28 open-source projects** whenever I get the chance.
+Contributing to **29 open-source projects** whenever I get the chance.
 <!-- stats ends -->
 
 </div>
@@ -85,6 +85,8 @@ Both are free, signed and notarized. Grab the DMG for [Folderglass](https://gith
 **Merged upstream**
 
 <!-- merged starts -->
+[emdash: Note that a missing hook capability fails silently](https://github.com/emdash-cms/emdash/pull/4486)<br><sub>4 Nov 2026</sub>
+
 [google_workspace_mcp: Non-cumulative union mode for --permissions](https://github.com/taylorwilsdon/google_workspace_mcp/pull/811)<br><sub>20 Oct 2026</sub>
 
 [google_workspace_mcp: Prevent duplicate delivery after an ambiguous send](https://github.com/taylorwilsdon/google_workspace_mcp/pull/1062)<br><sub>19 Oct 2026</sub>
@@ -94,8 +96,6 @@ Both are free, signed and notarized. Grab the DMG for [Folderglass](https://gith
 [actual-mcp: Accept a stringified "null" rule stage](https://github.com/s-stefanov/actual-mcp/pull/245)<br><sub>18 Oct 2026</sub>
 
 [opengist: Allow OAuth signup through invitation links](https://github.com/thomiceli/opengist/pull/812)<br><sub>16 Oct 2026</sub>
-
-[opengist: Return 413 for oversized gist forms](https://github.com/thomiceli/opengist/pull/805)<br><sub>16 Oct 2026</sub>
 <!-- merged ends -->
 
 [All my PRs](https://dev.adityarajsingh.com/?utm_source=github&utm_medium=profile&utm_campaign=readme&utm_content=merged_all_prs_link#contributions)
