@@ -117,9 +117,9 @@ def main():
     prs = upstream(merged_prs())
     text = README.read_text(encoding="utf-8")
     text = replace_section(text, "stats", stats_line(prs))
-    text = replace_section(text, "releases", "\n\n".join(release_lines(6)))
-    text = replace_section(text, "merged", "\n\n".join(merged_lines(prs, 6)))
-    text = replace_section(text, "blog", "\n\n".join(blog_lines(5)))
+    text = replace_section(text, "releases", "\n\n".join(release_lines(4)))
+    text = replace_section(text, "merged", "\n\n".join(merged_lines(prs, 3)))
+    text = replace_section(text, "blog", "\n\n".join(blog_lines(3)))
     README.write_text(text, encoding="utf-8", newline="\n")
 
 
