@@ -61,6 +61,20 @@ Both are free, signed and notarized. Grab the DMG for [Folderglass](https://gith
 
 **Want Claude or ChatGPT to work with your product? [Let's build your MCP server →](https://bncw.in/services/ai/mcp/?utm_source=github&utm_medium=profile&utm_campaign=readme&utm_content=mcp_section_cta)**
 
+### Contributing to
+
+- **[Immich](https://github.com/immich-app/immich)** [![GitHub stars](https://img.shields.io/github/stars/immich-app/immich?style=flat&color=gold)](https://github.com/immich-app/immich) - Kill pg_dump when a backup fails so it stops holding table locks, never unlink an untracked-file path an asset now references, dissolve a stack when its non-primary assets are deleted, Unicode-normalization-safe integrity path checks, and UTF-8 CLIP model configs.
+- **[Open Notebook](https://github.com/lfnovo/open-notebook)** [![GitHub stars](https://img.shields.io/github/stars/lfnovo/open-notebook?style=flat&color=gold)](https://github.com/lfnovo/open-notebook) - UTF-8 passwords, search results that open the matched record without duplicate sources, and insights that show after long-running generation.
+- **[Umami](https://github.com/umami-software/umami)** [![GitHub stars](https://img.shields.io/github/stars/umami-software/umami?style=flat&color=gold)](https://github.com/umami-software/umami) - Commas kept in search filter values, typed page paths selectable in reports, and Hindi translation updates.
+- **[File Browser](https://github.com/filebrowser/filebrowser)** [![GitHub stars](https://img.shields.io/github/stars/filebrowser/filebrowser?style=flat&color=gold)](https://github.com/filebrowser/filebrowser) - EPUB table-of-contents button kept clear of the header.
+- **[ntfy](https://github.com/binwiederhier/ntfy)** [![GitHub stars](https://img.shields.io/github/stars/binwiederhier/ntfy?style=flat&color=gold)](https://github.com/binwiederhier/ntfy) - Zero end times omitted from Alertmanager notifications.
+- **[Glances](https://github.com/nicolargo/glances)** [![GitHub stars](https://img.shields.io/github/stars/nicolargo/glances?style=flat&color=gold)](https://github.com/nicolargo/glances) - Sortable container IO and network columns, the guest nice CPU value in per-CPU stats, and container, VM and SMART stats initialised as lists.
+- **[Karakeep](https://github.com/karakeep-app/karakeep)** [![GitHub stars](https://img.shields.io/github/stars/karakeep-app/karakeep?style=flat&color=gold)](https://github.com/karakeep-app/karakeep) - Mobile lists sorted by name, as on the web.
+- **[Beszel](https://github.com/henrygd/beszel)** [![GitHub stars](https://img.shields.io/github/stars/henrygd/beszel?style=flat&color=gold)](https://github.com/henrygd/beszel) - Warnings for nonzero critical ATA SMART attributes, host totals no longer read from a Docker VM, allocated swap reported as used, load average rounded to two decimals, no SSH client reads after close, and machine-id generation on systems without /proc.
+- **[Navidrome](https://github.com/navidrome/navidrome)** [![GitHub stars](https://img.shields.io/github/stars/navidrome/navidrome?style=flat&color=gold)](https://github.com/navidrome/navidrome) - AAC streams reported as audio/aac instead of audio/mp4 in the Subsonic API.
+- **[urfave/cli](https://github.com/urfave/cli)** [![GitHub stars](https://img.shields.io/github/stars/urfave/cli?style=flat&color=gold)](https://github.com/urfave/cli) - Inherited persistent flags shown in child command help.
+- **[EmDash](https://github.com/emdash-cms/emdash)** [![GitHub stars](https://img.shields.io/github/stars/emdash-cms/emdash?style=flat&color=gold)](https://github.com/emdash-cms/emdash) - Plugin docs now warn that a hook with a missing capability fails silently.
+
 ### Right now
 
 <table>
@@ -90,12 +104,6 @@ Both are free, signed and notarized. Grab the DMG for [Folderglass](https://gith
 [google_workspace_mcp: Non-cumulative union mode for --permissions](https://github.com/taylorwilsdon/google_workspace_mcp/pull/811)<br><sub>20 Oct 2026</sub>
 
 [google_workspace_mcp: Prevent duplicate delivery after an ambiguous send](https://github.com/taylorwilsdon/google_workspace_mcp/pull/1062)<br><sub>19 Oct 2026</sub>
-
-[VoiceInk: Explain stuck coreaudiod instead of a generic "Recording failed to start"](https://github.com/Beingpax/VoiceInk/pull/1020)<br><sub>18 Oct 2026</sub>
-
-[actual-mcp: Accept a stringified "null" rule stage](https://github.com/s-stefanov/actual-mcp/pull/245)<br><sub>18 Oct 2026</sub>
-
-[opengist: Allow OAuth signup through invitation links](https://github.com/thomiceli/opengist/pull/812)<br><sub>16 Oct 2026</sub>
 <!-- merged ends -->
 
 [All my PRs](https://dev.adityarajsingh.com/?utm_source=github&utm_medium=profile&utm_campaign=readme&utm_content=merged_all_prs_link#contributions)
@@ -120,19 +128,6 @@ Both are free, signed and notarized. Grab the DMG for [Folderglass](https://gith
 </table>
 
 <sub>Updated by a GitHub Action in this repo.</sub>
-
-### Contributing to
-
-- **[Immich](https://github.com/immich-app/immich)** [![GitHub stars](https://img.shields.io/github/stars/immich-app/immich?style=flat&color=gold)](https://github.com/immich-app/immich) - Kill pg_dump when a backup fails so it stops holding table locks, never unlink an untracked-file path an asset now references, dissolve a stack when its non-primary assets are deleted, Unicode-normalization-safe integrity path checks, and UTF-8 CLIP model configs.
-- **[Open Notebook](https://github.com/lfnovo/open-notebook)** [![GitHub stars](https://img.shields.io/github/stars/lfnovo/open-notebook?style=flat&color=gold)](https://github.com/lfnovo/open-notebook) - UTF-8 passwords, search results that open the matched record without duplicate sources, and insights that show after long-running generation.
-- **[Umami](https://github.com/umami-software/umami)** [![GitHub stars](https://img.shields.io/github/stars/umami-software/umami?style=flat&color=gold)](https://github.com/umami-software/umami) - Commas kept in search filter values, typed page paths selectable in reports, and Hindi translation updates.
-- **[File Browser](https://github.com/filebrowser/filebrowser)** [![GitHub stars](https://img.shields.io/github/stars/filebrowser/filebrowser?style=flat&color=gold)](https://github.com/filebrowser/filebrowser) - EPUB table-of-contents button kept clear of the header.
-- **[ntfy](https://github.com/binwiederhier/ntfy)** [![GitHub stars](https://img.shields.io/github/stars/binwiederhier/ntfy?style=flat&color=gold)](https://github.com/binwiederhier/ntfy) - Zero end times omitted from Alertmanager notifications.
-- **[Glances](https://github.com/nicolargo/glances)** [![GitHub stars](https://img.shields.io/github/stars/nicolargo/glances?style=flat&color=gold)](https://github.com/nicolargo/glances) - Sortable container IO and network columns, the guest nice CPU value in per-CPU stats, and container, VM and SMART stats initialised as lists.
-- **[Karakeep](https://github.com/karakeep-app/karakeep)** [![GitHub stars](https://img.shields.io/github/stars/karakeep-app/karakeep?style=flat&color=gold)](https://github.com/karakeep-app/karakeep) - Mobile lists sorted by name, as on the web.
-- **[Beszel](https://github.com/henrygd/beszel)** [![GitHub stars](https://img.shields.io/github/stars/henrygd/beszel?style=flat&color=gold)](https://github.com/henrygd/beszel) - Warnings for nonzero critical ATA SMART attributes, host totals no longer read from a Docker VM, allocated swap reported as used, load average rounded to two decimals, no SSH client reads after close, and machine-id generation on systems without /proc.
-- **[urfave/cli](https://github.com/urfave/cli)** [![GitHub stars](https://img.shields.io/github/stars/urfave/cli?style=flat&color=gold)](https://github.com/urfave/cli) - Inherited persistent flags shown in child command help.
-- **[Navidrome](https://github.com/navidrome/navidrome)** [![GitHub stars](https://img.shields.io/github/stars/navidrome/navidrome?style=flat&color=gold)](https://github.com/navidrome/navidrome) - AAC streams reported as audio/aac instead of audio/mp4 in the Subsonic API.
 
 ### Skills
 
@@ -160,9 +155,13 @@ Both are free, signed and notarized. Grab the DMG for [Folderglass](https://gith
 
 **Currently nerding about**
 
+- AI gateways and enterprise context layers
+- Harness engineering
+- Agent teams, swarms and fleets
+- Evals and observability
+- Responsible AI, security and guardrails (prompt injection, red-teaming)
 - Fine-tuning (LoRA, QLoRA)
 - Voice agents (realtime speech to speech)
-- Prompt-injection defense and red-teaming
 - Agent memory
 - Multimodal and vision
 - Synthetic data and distillation
