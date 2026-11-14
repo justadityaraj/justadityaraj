@@ -84,7 +84,7 @@ Both are free, signed and notarized. Grab the DMG for [Folderglass](https://gith
 **Shipped**
 
 <!-- releases starts -->
-[amazon-in-mcp v0.1.4](https://github.com/justadityaraj/amazon-in-mcp/releases/tag/v0.1.4)<br><sub>13 Nov 2026</sub>
+[amazon-in-mcp v0.1.6](https://github.com/justadityaraj/amazon-in-mcp/releases/tag/v0.1.6)<br><sub>13 Nov 2026</sub>
 
 [Shim MCP 1.1.0](https://github.com/justadityaraj/shim-mcp/releases/tag/v1.1.0)<br><sub>22 Oct 2026</sub>
 
