@@ -2,7 +2,7 @@
 
 # Aditya Raj Singh (Adi)
 
-**MD by title, AI engineer by habit.** Give me a week inside your business. I'll find the job nobody wants to do and hand it to an AI agent.
+**Staff AI Engineer.** Give me a week inside your business. I'll find the job nobody wants to do and hand it to an AI agent.
 
 **Got one? [Let's build your agent →](https://bncw.in/services/ai/agents/?utm_source=github&utm_medium=profile&utm_campaign=readme&utm_content=header_agents_cta)**
 
