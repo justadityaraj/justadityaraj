@@ -4,7 +4,7 @@
 
 **Staff AI Engineer.** Give me a week inside your business. I'll find the job nobody wants to do and hand it to an AI agent.
 
-**Got one? [Let's build your agent →](https://bncw.in/services/ai/agents/?utm_source=github&utm_medium=profile&utm_campaign=readme&utm_content=header_agents_cta)**
+**Got one? [Let's build your agent →](https://adityarajsingh.com/work-with-me/?utm_source=github&utm_medium=profile&utm_campaign=readme&utm_content=header_agents_cta)**
 
 [![Try my Mac apps](https://img.shields.io/badge/Try_my_Mac_apps-24292F?style=for-the-badge&logo=apple&logoColor=white)](#apps-i-just-open-sourced)
 [![Read what I'm learning](https://img.shields.io/badge/Read_what_I'm_learning-0A66C2?style=for-the-badge&logo=rss&logoColor=white)](https://adityarajsingh.com/?utm_source=github&utm_medium=profile&utm_campaign=readme&utm_content=header_blog_button)
@@ -59,7 +59,7 @@ Both are free, signed and notarized. Grab the DMG for [Folderglass](https://gith
 - **[amazon-in-mcp](https://github.com/justadityaraj/amazon-in-mcp)** [![Stars](https://img.shields.io/github/stars/justadityaraj/amazon-in-mcp?style=flat&color=gold)](https://github.com/justadityaraj/amazon-in-mcp) - MCP server for amazon.in: cheapest in-stock and best-value picks, plus price history links. No paid APIs.
 - **[Slack Lists MCP](https://github.com/justadityaraj/slack-lists-mcp)** [![Stars](https://img.shields.io/github/stars/justadityaraj/slack-lists-mcp?style=flat&color=gold)](https://github.com/justadityaraj/slack-lists-mcp) - Create, read, update, delete, filter and export Slack List items from any MCP client.
 
-**Want Claude or ChatGPT to work with your product? [Let's build your MCP server →](https://bncw.in/services/ai/mcp/?utm_source=github&utm_medium=profile&utm_campaign=readme&utm_content=mcp_section_cta)**
+**Want Claude or ChatGPT to work with your product? [Let's build your MCP server →](https://adityarajsingh.com/work-with-me/?utm_source=github&utm_medium=profile&utm_campaign=readme&utm_content=mcp_section_cta)**
 
 ### Contributing to
 
