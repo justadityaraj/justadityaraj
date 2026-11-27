@@ -8,7 +8,7 @@
 
 [![Try my Mac apps](https://img.shields.io/badge/Try_my_Mac_apps-24292F?style=for-the-badge&logo=apple&logoColor=white)](#apps-i-just-open-sourced)
 [![Read what I'm learning](https://img.shields.io/badge/Read_what_I'm_learning-0A66C2?style=for-the-badge&logo=rss&logoColor=white)](https://adityarajsingh.com/?utm_source=github&utm_medium=profile&utm_campaign=readme&utm_content=header_blog_button)
-[![See every PR I've opened](https://img.shields.io/badge/See_every_PR_I've_opened-238636?style=for-the-badge&logo=github&logoColor=white)](https://dev.adityarajsingh.com/?utm_source=github&utm_medium=profile&utm_campaign=readme&utm_content=header_pr_tracker_button#contributions)
+[![See every PR I've opened](https://img.shields.io/badge/See_every_PR_I've_opened-238636?style=for-the-badge&logo=github&logoColor=white)](https://adityarajsingh.com/projects/?utm_source=github&utm_medium=profile&utm_campaign=readme&utm_content=header_pr_tracker_button#contributions)
 
 <!-- stats starts -->
 Contributing to **32 open-source projects** whenever I get the chance.
@@ -106,7 +106,7 @@ Both are free, signed and notarized. Grab the DMG for [Folderglass](https://gith
 [open-source-mac-os-apps: Add Folderglass](https://github.com/serhii-londar/open-source-mac-os-apps/pull/1721)<br><sub>22 Nov 2026</sub>
 <!-- merged ends -->
 
-[All my PRs](https://dev.adityarajsingh.com/?utm_source=github&utm_medium=profile&utm_campaign=readme&utm_content=merged_all_prs_link#contributions)
+[All my PRs](https://adityarajsingh.com/projects/?utm_source=github&utm_medium=profile&utm_campaign=readme&utm_content=merged_all_prs_link#contributions)
 
 </td>
 <td width="33%" valign="top">
